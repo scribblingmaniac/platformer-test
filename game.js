@@ -1,5 +1,6 @@
 var canvas;
 var ctx;
+//TEST
 Number.prototype.hexify = function(dg) {
    var str = this.toString(16);
    while (str.length < dg)
