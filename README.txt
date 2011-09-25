@@ -1,0 +1,1 @@
+Open index.html to run in Safari, Chrome or Firefox.
